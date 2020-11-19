@@ -1,0 +1,10 @@
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\bin\Debug\loto.exe.config
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\bin\Debug\loto.exe
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\bin\Debug\loto.pdb
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\obj\Debug\loto.csprojAssemblyReference.cache
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\obj\Debug\loto.Form1.resources
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\obj\Debug\loto.Properties.Resources.resources
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\obj\Debug\loto.csproj.GenerateResource.cache
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\obj\Debug\loto.csproj.CoreCompileInputs.cache
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\obj\Debug\loto.exe
+C:\Users\RAMAZAN\Desktop\lo\loto\loto\obj\Debug\loto.pdb
